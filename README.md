@@ -1,6 +1,8 @@
 
 🚀 React Firebase ChatApp
+
 📄 Project Description
+
 The React Firebase ChatApp is a modern and intuitive messaging application built using React for the frontend and Firebase for the backend.
 
 💬 Real-Time Messaging: Allows users to communicate seamlessly in real-time.
